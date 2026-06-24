@@ -1,0 +1,11 @@
+Use case: scientific-educational
+Asset type: full-screen Marp slide visual for an AWS Cloud course
+Primary request: illustrated classroom-friendly visual explaining DNS and Amazon Route 53 as a clean global routing map from a browser request to the correct cloud destination.
+Scene/backdrop: bright modern cloud operations room with a large stylized world map made of light trails, domain names represented as clean generic address cards without readable text, and cloud destination markers.
+Subject: a clear path from user browser icon to DNS routing hub to AWS cloud resources, with Route 53 concept implied by routing signs and global map, no brand logos.
+Style/medium: polished semi-realistic digital illustration, professional, friendly, not childish.
+Composition/framing: wide 16:9 composition, strong central visual, generous space near top-left for a slide title overlay.
+Lighting/mood: bright, confident, educational.
+Color palette: white, soft blue, cyan, restrained orange accents.
+Constraints: no animals, no piggy banks, no coins, no readable text, no watermarks, no UI screenshots, no fake logos.
+

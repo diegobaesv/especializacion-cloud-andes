@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: full-screen educational slide visual, 16:9 landscape
+Primary request: friendly cartoon illustration explaining the AWS root user as a master key that must be protected.
+Scene/backdrop: clean modern classroom-tech style, bright but not childish, suitable for adult cloud computing course.
+Subject: a large golden master key safely floating inside a transparent secure vault, with two adult learners looking at it carefully, and a small smartphone showing a generic security shield symbol for MFA nearby.
+Style/medium: polished digital cartoon illustration, crisp raster artwork, expressive but professional.
+Composition/framing: 16:9 wide composition, key and vault as central visual element, enough negative space around edges for slide cropping.
+Lighting/mood: light, clever, respectful, slightly humorous but not mocking.
+Color palette: white, soft blue, cyan accents, warm gold for the key.
+Text: no text at all.
+Constraints: no AWS logo, no company logos, no readable words, no watermark, no tiny decorative clutter, no animals or fantasy creatures.

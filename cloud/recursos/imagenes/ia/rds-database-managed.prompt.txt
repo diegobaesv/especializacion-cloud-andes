@@ -1,0 +1,11 @@
+Use case: scientific-educational
+Asset type: full-screen Marp slide visual for an AWS Cloud course
+Primary request: professional educational illustration explaining managed relational databases with RDS: application connects to a private database, backups, standby replica and monitoring are managed.
+Scene/backdrop: clean cloud architecture room with application servers on one side connected to a protected database cluster in private network space, backup snapshots represented as layered safe copies, standby database in another zone, monitoring graph icons.
+Subject: relational database, private access, backups, Multi-AZ style resilience, connection from backend app, managed operations.
+Style/medium: polished semi-realistic digital illustration, professional and friendly.
+Composition/framing: wide 16:9, protected database cluster central-right, backend app central-left, backup/replica visual around it, clean top-left space for title overlay.
+Lighting/mood: stable, trustworthy, production data safety.
+Color palette: white, soft blue, cyan, green status lights, restrained orange connection lines.
+Constraints: no readable words, no labels, no letters, no numbers, no animals, no piggy banks, no coins, no watermarks, no brand logos, no fake AWS logo.
+

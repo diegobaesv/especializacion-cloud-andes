@@ -1,0 +1,23 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: Bucket S3 simple para laboratorio de CloudFormation
+
+Parameters:
+  BucketName:
+    Type: String
+    Description: Nombre único global para el bucket
+
+Resources:
+  DemoBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Ref BucketName
+      Tags:
+        - Key: Proyecto
+          Value: curso-cloud
+        - Key: Ambiente
+          Value: laboratorio
+
+Outputs:
+  BucketName:
+    Description: Bucket creado por CloudFormation
+    Value: !Ref DemoBucket

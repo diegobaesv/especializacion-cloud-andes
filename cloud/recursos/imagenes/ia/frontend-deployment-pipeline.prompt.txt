@@ -1,0 +1,11 @@
+Use case: scientific-educational
+Asset type: full-screen Marp slide visual for an AWS Cloud course
+Primary request: professional educational illustration explaining frontend deployment on AWS: a web app moving from source code to build pipeline to global hosting and users.
+Scene/backdrop: bright modern cloud deployment workspace with a laptop showing abstract code lines, a sequence of icon-only pipeline cards, a web app preview card, cloud hosting, and global delivery paths to desktop and mobile users.
+Subject: frontend build, continuous deployment, static assets, CDN delivery, custom domain implied visually.
+Style/medium: polished semi-realistic digital illustration, professional and friendly, consistent with modern AWS course visuals.
+Composition/framing: wide 16:9, central pipeline from left to right, generous clean space near top-left for slide title overlay.
+Lighting/mood: bright, productive, reliable.
+Color palette: white, soft blue, cyan, restrained orange and green accents.
+Constraints: absolutely no readable words, no labels, no letters, no numbers, no UI text, no animals, no piggy banks, no coins, no watermarks, no brand logos, no fake AWS logo.
+

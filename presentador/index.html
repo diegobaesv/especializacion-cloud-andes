@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Presentador de cursos</title>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              brand: {
+                navy: "#142b8f",
+                blue: "#1d7fc1",
+                cyan: "#08add8"
+              }
+            },
+            boxShadow: {
+              stage: "0 18px 55px rgba(15, 23, 42, 0.18)"
+            }
+          }
+        }
+      };
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-slate-100 text-slate-950 antialiased">
+    <div class="grid min-h-screen grid-rows-[auto_minmax(0,1fr)_auto]" id="app">
+      <header class="sticky top-0 z-20 border-b border-slate-200 bg-white/95 shadow-sm backdrop-blur" id="topbar">
+        <div class="mx-auto flex max-w-7xl items-center gap-5 px-5 py-3">
+          <button class="hidden min-h-10 rounded-lg border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-blue hover:text-brand-navy" id="backButton" type="button">Volver</button>
+
+          <button class="flex min-w-0 flex-1 items-center gap-4 text-left" id="homeButton" type="button" aria-label="Ir al inicio">
+            <img class="h-12 w-auto shrink-0" src="../cloud/recursos/imagenes/logousmp_60.png" alt="USMP">
+            <span class="h-10 w-px shrink-0 bg-slate-200"></span>
+            <img class="h-11 w-auto shrink-0" src="../cloud/recursos/imagenes/logo-andes.png" alt="ANDES">
+            <span class="hidden min-w-0 border-l border-slate-200 pl-4 md:block">
+              <strong class="block truncate text-base leading-tight text-slate-950">Recursos académicos</strong>
+              <small class="block truncate text-xs font-semibold text-slate-500">Diego Fernando Baes Vasquez · ANDES</small>
+              <small class="block truncate text-xs text-slate-400" id="contextLabel">Selecciona un curso</small>
+            </span>
+          </button>
+
+          <div class="hidden items-center gap-2 md:flex" id="deckVersions" aria-label="Versiones de la presentación"></div>
+
+          <button class="hidden min-h-10 rounded-lg px-4 py-2 text-sm font-black shadow-sm" id="downloadPdf" style="background:#000000;color:#ffffff;border:1px solid #000000;" type="button">Descargar PDF</button>
+          <button class="hidden min-h-10 rounded-lg border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-blue hover:text-brand-navy" id="focusMode" type="button">Vista limpia</button>
+          <button class="hidden min-h-10 rounded-lg border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-blue hover:text-brand-navy" id="fullscreen" type="button">Pantalla completa</button>
+        </div>
+      </header>
+
+      <main class="min-h-0" id="screen"></main>
+
+      <footer class="hidden items-center justify-center gap-2.5 border-t border-slate-200 bg-white/95 px-4 py-3" id="controls">
+        <button class="min-h-10 rounded-lg border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-blue disabled:cursor-not-allowed disabled:opacity-45" id="firstSlide" type="button">Inicio</button>
+        <button class="min-h-10 rounded-lg border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-blue disabled:cursor-not-allowed disabled:opacity-45" id="prevSlide" type="button">Anterior</button>
+        <span class="min-w-20 text-center text-sm font-semibold text-slate-500" id="slideCounter">0 / 0</span>
+        <button class="min-h-10 rounded-lg border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-blue disabled:cursor-not-allowed disabled:opacity-45" id="nextSlide" type="button">Siguiente</button>
+        <button class="min-h-10 rounded-lg border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-blue disabled:cursor-not-allowed disabled:opacity-45" id="lastSlide" type="button">Final</button>
+      </footer>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

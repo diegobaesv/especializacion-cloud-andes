@@ -1,0 +1,11 @@
+Use case: scientific-educational
+Asset type: full-screen Marp slide visual for an AWS Cloud course
+Primary request: professional visual explaining SSL/TLS certificates and AWS Certificate Manager as a trusted digital certificate protecting a website connection.
+Scene/backdrop: clean modern security operations room, browser window and cloud service connected by a glowing encrypted path, a digital certificate card and shield as central metaphor.
+Subject: secure website connection, certificate issuance, validation, and managed renewal implied visually without text.
+Style/medium: polished semi-realistic digital illustration, friendly but professional.
+Composition/framing: wide 16:9 composition, main shield/certificate slightly right of center, generous clean space near top-left for slide title overlay.
+Lighting/mood: crisp, safe, trustworthy.
+Color palette: white, cyan, deep blue, emerald accents, subtle gold highlights.
+Constraints: no animals, no piggy banks, no coins, no readable text, no watermarks, no padlock-only cliche as the only visual, no fake logos.
+

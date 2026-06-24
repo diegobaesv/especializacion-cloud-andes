@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: full-screen educational slide visual, 16:9 landscape
+Primary request: friendly cartoon illustration explaining IAM permissions as people receiving the exact keys they need, not a master key.
+Scene/backdrop: modern cloud classroom/security workspace, professional and clear.
+Subject: three adult learners at a clean security desk; each receives a different small access badge/key for a specific cloud door or resource, while a large master key stays locked in a transparent safe in the background. The visual should communicate least privilege and controlled access.
+Style/medium: polished digital cartoon illustration, crisp raster artwork, adult training tone.
+Composition/framing: 16:9 wide composition, access badges and separate resource doors clearly visible, open space near top-left for a slide title added later outside the image.
+Lighting/mood: smart, friendly, lightly humorous, not childish.
+Color palette: white, soft blue, cyan accents, warm gold for keys, subtle security green.
+Text: no text at all.
+Constraints: no AWS logo, no company logos, no readable words, no watermark, no animals or fantasy creatures, no tiny clutter.

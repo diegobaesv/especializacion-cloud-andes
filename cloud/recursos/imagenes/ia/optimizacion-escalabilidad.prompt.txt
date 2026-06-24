@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: full-screen educational slide visual, 16:9 landscape
+Primary request: friendly cartoon illustration explaining cost optimization and scalable infrastructure as resizing resources according to demand.
+Scene/backdrop: modern cloud control room, clean educational style.
+Subject: an adult learner adjusts a smooth control slider, causing cloud resources to expand and shrink with traffic waves. On one side, unused server blocks fade away; on the other, right-sized server blocks serve users efficiently. Include a clean budget gauge and stacked coins as abstract savings symbols.
+Style/medium: polished digital cartoon illustration, crisp raster artwork, professional and approachable.
+Composition/framing: 16:9 wide composition, slider and elastic cloud resources central, open space near top-left for title added later outside image.
+Lighting/mood: practical, optimistic, calm, slightly playful but not childish.
+Color palette: white, soft blue, cyan, green accents for savings, small orange highlights.
+Text: no text at all.
+Constraints: no AWS logo, no company logos, no readable words, no watermark, no animals, no piggy bank, no creature shapes, no tiny clutter.

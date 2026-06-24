@@ -1,0 +1,11 @@
+Use case: scientific-educational
+Asset type: full-screen Marp slide visual for an AWS Cloud course
+Primary request: visual explaining a CDN and CloudFront as content delivered from nearby edge locations to users around the world.
+Scene/backdrop: clean global network map with glowing edge nodes near users, one origin cloud service, and fast delivery paths to laptops and mobile devices.
+Subject: origin, edge locations, caching, lower latency, global distribution, shown visually without text.
+Style/medium: polished semi-realistic digital illustration, professional educational.
+Composition/framing: wide 16:9 composition, origin cloud on one side, multiple edge nodes around world map, generous clean space near top-left for slide title overlay.
+Lighting/mood: fast, modern, reliable.
+Color palette: deep blue background balanced with cyan, white, subtle orange path highlights.
+Constraints: no animals, no piggy banks, no coins, no readable text, no watermarks, no fake logos, no UI screenshots.
+

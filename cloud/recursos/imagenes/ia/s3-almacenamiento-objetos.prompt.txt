@@ -1,0 +1,11 @@
+Use case: scientific-educational
+Asset type: full-screen slide visual for a cloud computing course
+Primary request: professional educational illustration of cloud object storage as clean organized containers holding generic files and media assets.
+Scene/backdrop: bright modern cloud workspace with floating storage containers, document cards, image thumbnails, and layered version stacks connected to a simple web application icon.
+Subject: object storage, containers, files, version layers, lifecycle lanes moving older files to colder storage, shown as abstract generic shapes.
+Style/medium: polished semi-realistic digital illustration, professional and friendly.
+Composition/framing: wide 16:9 composition, central storage containers, generous clean space near top-left for slide title overlay.
+Lighting/mood: bright, practical, organized.
+Color palette: white, soft blue, cyan, restrained orange accents, subtle green accents.
+Constraints: no animals, no piggy banks, no coins, no readable text, no watermarks, no logos, no UI screenshots.
+

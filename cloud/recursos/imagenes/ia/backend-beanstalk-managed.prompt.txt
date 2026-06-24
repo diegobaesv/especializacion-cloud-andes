@@ -1,0 +1,11 @@
+Use case: scientific-educational
+Asset type: full-screen Marp slide visual for an AWS Cloud course
+Primary request: professional educational illustration explaining backend deployment with a managed platform: developer package goes into a cloud environment that provisions servers, load balancing, health checks and scaling.
+Scene/backdrop: modern cloud operations room with an application package icon entering a managed platform control layer, then branching to multiple healthy server nodes behind a load balancer.
+Subject: backend app deployment, environment, automatic provisioning, health monitoring, scaling, rollback implied visually.
+Style/medium: polished semi-realistic digital illustration, professional and friendly.
+Composition/framing: wide 16:9, platform/environment in center, servers to the right, developer/source package to the left, clean top-left space for title overlay.
+Lighting/mood: confident, operational, production-ready.
+Color palette: white, blue, cyan, subtle green health indicators, restrained orange arrows.
+Constraints: no readable words, no labels, no letters, no numbers, no animals, no piggy banks, no coins, no watermarks, no brand logos, no fake AWS logo.
+

@@ -1,0 +1,11 @@
+Use case: scientific-educational
+Asset type: full-screen Marp slide visual for an AWS Cloud course
+Primary request: professional educational illustration explaining observability and event-driven operations: metrics, logs, traces and events flowing into a monitoring control center that triggers automated responses.
+Scene/backdrop: modern cloud operations dashboard room with abstract service nodes sending colored streams into four visual lanes: metrics charts, log documents, trace path map, and event bus; alerts trigger an automated remediation workflow.
+Subject: monitoring, alarms, logs, distributed tracing, event bus, automated response, operational visibility.
+Style/medium: polished semi-realistic digital illustration, professional and friendly.
+Composition/framing: wide 16:9, monitoring hub center, service nodes left, automated response right, clean top-left space for title overlay.
+Lighting/mood: alert but controlled, clear, operational.
+Color palette: deep blue balanced with cyan, white, green healthy indicators, restrained amber alert accents.
+Constraints: no readable words, no labels, no letters, no numbers, no animals, no piggy banks, no coins, no watermarks, no brand logos, no fake AWS logo.
+

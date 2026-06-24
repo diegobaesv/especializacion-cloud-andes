@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: full-screen educational slide visual, 16:9 landscape
+Primary request: friendly cartoon illustration explaining cloud automation and scripting as pressing one controlled button that creates repeatable cloud resources.
+Scene/backdrop: modern cloud operations lab, clean classroom-tech style.
+Subject: two adult learners reviewing a small script on a laptop, then a simple automation machine creates neatly arranged cloud resources: server, storage bucket, database, monitoring panel. A checklist shows completed steps as simple shapes without readable text.
+Style/medium: polished digital cartoon illustration, crisp raster artwork, professional and approachable.
+Composition/framing: 16:9 wide composition, automation flow left-to-right, open space near top-left for slide title added later outside the image.
+Lighting/mood: energetic, precise, practical, lightly playful but not childish.
+Color palette: white, soft blue, cyan, subtle orange highlights.
+Text: no text at all.
+Constraints: no AWS logo, no company logos, no readable words, no watermark, no animals or fantasy creatures, no tiny clutter.

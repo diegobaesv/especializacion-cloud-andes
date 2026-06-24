@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: full-screen educational slide visual, 16:9 landscape
+Primary request: friendly cartoon illustration explaining AWS Availability Zones as separated places inside one connected cloud region.
+Scene/backdrop: clean modern cloud classroom style, suitable for adult technical training.
+Subject: three separate futuristic data-center buildings or platforms labeled only by visual separation, each in its own protected bubble or island, connected by glowing fiber lines across a single larger cloud-shaped region boundary. Two adult learners observe the scene from the foreground, curious and engaged.
+Style/medium: polished digital cartoon illustration, crisp raster artwork, professional and approachable.
+Composition/framing: 16:9 wide composition, the three separated zones clearly visible across the slide, generous open area near top-left for a slide title added later outside the image.
+Lighting/mood: clear, clever, optimistic, slightly playful but not childish.
+Color palette: white, soft blue, cyan, subtle purple accents, warm highlights.
+Text: no text at all.
+Constraints: no AWS logo, no company logos, no readable words, no watermark, no tiny clutter, no animals or fantasy creatures.

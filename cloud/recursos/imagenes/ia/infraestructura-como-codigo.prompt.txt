@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: full-screen educational slide visual, 16:9 landscape
+Primary request: friendly cartoon illustration explaining infrastructure as code as a blueprint that creates cloud resources automatically.
+Scene/backdrop: modern classroom-tech workspace with a clean cloud dashboard atmosphere.
+Subject: an adult learner holding a blueprint or configuration sheet, and from that sheet neat cloud resources appear as small 3D blocks: a server, storage bucket shape, database cylinder, and network lines. A second adult learner checks the result on a laptop. The scene should feel like turning a recipe into an assembled system.
+Style/medium: polished digital cartoon illustration, crisp raster artwork, professional and approachable.
+Composition/framing: 16:9 wide composition, blueprint and emerging resources as the central visual element, generous open area near top-left for a slide title added later outside the image.
+Lighting/mood: clear, smart, light, slightly playful but not childish.
+Color palette: white, soft blue, cyan, gentle orange highlights.
+Text: no text at all.
+Constraints: no AWS logo, no company logos, no readable words, no watermark, no tiny clutter, no animals or fantasy creatures.
