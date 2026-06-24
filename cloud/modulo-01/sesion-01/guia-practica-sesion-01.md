@@ -15,13 +15,39 @@ Crear o revisar una cuenta AWS de laboratorio, proteger el acceso inicial y reco
 ## Paso 1: Crear la cuenta AWS
 
 1. Ingresa a `https://portal.aws.amazon.com/billing/signup`.
-2. Registra el correo que será el usuario root de la cuenta.
+
+![](./imagenes/cuenta.png)
+
+2. Registra el correo que será el usuario root de la cuenta y verificar OTP.
+
+![](./imagenes/correootp.png)
+
 3. Define un nombre de cuenta reconocible, por ejemplo `curso-cloud-nombre-apellido`.
+
+3.1. Elige tu tipo de cuenta
+
+![](./imagenes/tipocuenta.png)
+
 4. Completa la información de contacto.
-5. Registra el método de pago solicitado por AWS.
+
+![](./imagenes/informacioncontacto.png)
+
+
+5. Registra el método de pago solicitado por AWS. *IMPORTANTE NO PONER TARJETA CREDITO PRINCIPAL, USAR TARJETA DEBITO CON SALDO SUFICIENTE 1USD*.
+
+![](./imagenes/informacionpago.png)
+
 6. Completa la verificación de identidad.
+
+![](./imagenes/verificacionidentidad.png)
+
 7. Elige el plan de soporte básico si la cuenta será usada para aprendizaje.
+
+![](./imagenes/soportebasico.png)
+
 8. Espera la confirmación de creación de la cuenta.
+
+![](./imagenes/confirmacioncuenta.png)
 
 ## Paso 2: Entrar como root solo para configuración inicial
 
